@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RailWorld Training/RailWorld Training.iml" filepath="$PROJECT_DIR$/RailWorld Training/RailWorld Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RailWorld-Training.iml" filepath="$PROJECT_DIR$/.idea/RailWorld-Training.iml" />
+    </modules>
+  </component>
+</project>
