@@ -1,5 +1,5 @@
 package DAY18_24MAY;
-// input n=3
+
 
 
 import java.util.ArrayList;
@@ -28,7 +28,7 @@ public class ClimbingStairsExample {
     }
 
     public static void main(String[] args) {
-        int n = 3;
+        int n = 3;    // input n=3
 
         // Printing all the distinct ways
         System.out.println("Distinct ways to climb to the top:");
