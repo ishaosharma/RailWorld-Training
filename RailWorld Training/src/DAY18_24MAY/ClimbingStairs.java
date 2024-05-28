@@ -1,6 +1,4 @@
 package DAY18_24MAY;
-//input =2
-
 
 import java.util.ArrayList;
 import java.util.List;
@@ -44,7 +42,7 @@ public class ClimbingStairs {
     }
 
     public static void main(String[] args) {
-        int n = 2;
+        int n = 2;    //input =2
 
         System.out.println("Number of distinct ways: " + climbStairs(n));
 
